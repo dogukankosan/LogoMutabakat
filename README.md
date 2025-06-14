@@ -1,3 +1,7 @@
+![indir](https://github.com/user-attachments/assets/380a0145-c5d5-4f51-8ba0-96375f580208)![indir](https://github.com/user-attachments/assets/fca40c3d-9a60-4abe-ab6b-ef056d2a49e4)
+
+---
+
 # LogoMutabakat
 
 **Logo ERP verisi ile entegre çalışan mutabakat gönderim ve yanıt takip sistemi**  
@@ -25,7 +29,6 @@ LogoMutabakat/
 ├── Resources/ # PDF şablonları, resimler
 ├── SQLite/ # Yerel konfigürasyon ve görev veritabanı
 └── README.md # Bu dosya
-
 
 ---
 
@@ -84,7 +87,4 @@ MIT License
 
 🧠 Proje geliştiricisi: [@dogukankosan](https://github.com/dogukankosan)  
 🐞 Hata bildirmek veya katkıda bulunmak için [Issues](https://github.com/dogukankosan/LogoMutabakat/issues) sekmesini kullanabilirsin.
-
----
-
 
