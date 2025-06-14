@@ -1,4 +1,4 @@
-![indir](https://github.com/user-attachments/assets/380a0145-c5d5-4f51-8ba0-96375f580208)![indir](https://github.com/user-attachments/assets/fca40c3d-9a60-4abe-ab6b-ef056d2a49e4)
+![indir](https://github.com/user-attachments/assets/380a0145-c5d5-4f51-8ba0-96375f580208)
 
 ---
 
