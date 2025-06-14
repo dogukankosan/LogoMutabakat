@@ -2,7 +2,7 @@
 
 ---
 
-# LogoMutabakat
+# Logo Mutabakat
 
 **Logo ERP verisi ile entegre çalışan mutabakat gönderim ve yanıt takip sistemi**  
 Bu proje, SQL üzerinden Logo ERP'deki carilere ait mutabakat bilgilerini çekip, WhatsApp ve e‑posta ile PDF formatında gönderim yapmayı ve gelen dönüşleri takip etmeyi amaçlayan bir Windows servis/masaüstü uygulamasıdır.
