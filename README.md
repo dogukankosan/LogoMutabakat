@@ -16,8 +16,6 @@ Bu proje, SQL üzerinden Logo ERP'deki carilere ait mutabakat bilgilerini çekip
 - **PDF oluşturma, döviz kuru ve para formatı desteği**
 - **SQLite + SQL Server destekli yapı**
 - **Gönderim sonrası renkli durum takibi ve loglama sistemi**
-- **Quartz.NET ile zamanlanmış görev desteği (servis versiyonunda)**
-
 ---
 
 ## 📂 Klasör Yapısı
@@ -25,7 +23,6 @@ Bu proje, SQL üzerinden Logo ERP'deki carilere ait mutabakat bilgilerini çekip
 LogoMutabakat/
 ├── NotificationService/ # Windows servisi (WhatsApp & Mail gönderimi)
 ├── WinFormsUI/ # Masaüstü arayüz (Grid, Onay/Reddet vs)
-├── SQLScripts/ # Logo tabloları için örnek sorgular
 ├── Resources/ # PDF şablonları, resimler
 ├── SQLite/ # Yerel konfigürasyon ve görev veritabanı
 └── README.md # Bu dosya
@@ -45,16 +42,10 @@ LogoMutabakat/
 
 ---
 
-## 🕒 Zamanlanmış Görevler (Servis Versiyonu)
-
-`NoktaBilgiNotificationService` içinde yer alan Quartz.NET zamanlayıcı şu işlemleri periyodik olarak yapar:
-
 - SQL’den veriyi çeker
 - Excel/PDF oluşturur
 - WhatsApp API (Twilio) veya Mail ile gönderir
 - Durumu loglar
-
-Servis arka planda çalışır ve SQLite üzerinden görevlerini okur.
 
 ---
 
@@ -77,6 +68,9 @@ Servis arka planda çalışır ve SQLite üzerinden görevlerini okur.
 
 ---
 
+## 🤝 Katkı
+
+Katkı sağlamak için projeyi forklayabilir ve pull request gönderebilirsiniz.
 ## 📄 Lisans
 
 MIT License
@@ -85,6 +79,8 @@ MIT License
 
 ## 📬 İletişim
 
-🧠 Proje geliştiricisi: [@dogukankosan](https://github.com/dogukankosan)  
-🐞 Hata bildirmek veya katkıda bulunmak için [Issues](https://github.com/dogukankosan/LogoMutabakat/issues) sekmesini kullanabilirsin.
+- 👨‍💻 Geliştirici: [@dogukankosan](https://github.com/dogukankosan)  
+- 🐞 Suggestions or issues: [Issues sekmesi](https://github.com/dogukankosan/LogoWhatsappEntegrasyon/issues)
+
+---
 
