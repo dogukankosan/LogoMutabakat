@@ -70,6 +70,8 @@ LogoMutabakat/
 
 ## 🤝 Katkı
 
+---
+
 Katkı sağlamak için projeyi forklayabilir ve pull request gönderebilirsiniz.
 ## 📄 Lisans
 
